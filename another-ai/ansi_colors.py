@@ -8,7 +8,7 @@
 # License.
 #
 #
-# Copyright 2017 SBIT project (http://www.firmwaretoolkit.org).
+# Copyright 2015 Another AI  project (http://www.anotherai.org).
 # All rights reserved. Use is subject to license terms.
 #
 #
